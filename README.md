@@ -1,4 +1,5 @@
 ## Naive Bayes Classifier
 
-This repository contains an implementation of a binary Naive-Bayes classifier for classifying Spam and Ham messages. 
+This is an implementation of a binary Naive-Bayes classifier with Laplace Smoothing for labeling Spam and Ham messages.
+
 
