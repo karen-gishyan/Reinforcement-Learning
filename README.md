@@ -1,2 +1,4 @@
-This repo
+##Naive Bayes Classifier
+
+This repository contains an implementation of a binary Naive-Bayes classifier for classifying Spam messages. 
 
