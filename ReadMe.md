@@ -1,1 +1,5 @@
-This Repository contains implementataions of Value Iteration, On Policy Monte Carlo Control, Sarsa and Q-Learning algorithms for custom tabular environments.
+### Implementations
+*  Value Iteration, On-Policy Monte Carlo Control, SARSA, Q-learning algorithms.
+*  A Naive-Bayes classifier for email classification.
+
+
